@@ -5,7 +5,6 @@ public class Speech
 
     public string PrintLengthAndTwentySecondLetter(){
         public string Quotelength = Quote.length;
-        return Quotelength;
         return Quote[21];
     }
 }
