@@ -5,6 +5,6 @@ public class Speech
 
     public string PrintLengthAndTwentySecondLetter(){
         //Add your code here
-        return char "Quote[21]";
+        return Quote[21]
     }
 }
